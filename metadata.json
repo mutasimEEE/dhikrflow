@@ -1,0 +1,6 @@
+{
+  "name": "DhikrFlow",
+  "description": "An automated meditative counter for focused dhikr practice. Set a phrase, target, and pace, and let the app guide your meditation with a serene, animated flow. Features precise controls for pausing, resetting, and canceling your session.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
